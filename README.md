@@ -6,4 +6,4 @@ The Providers options was tested on the following Angular Features:
 - Lazy loaded modules (lazyness and external-lazy)
 
 
-In both cases i could successfully change the instance of the DefaultTooltipGenerator class, injected in the generic-chart component.
+In both cases i successfully changed the instance of the DefaultTooltipGenerator class, injected in the generic-chart component.
